@@ -1,0 +1,1 @@
+#take input from user matrix and find sum multiplication division transpose inverse for matrix
